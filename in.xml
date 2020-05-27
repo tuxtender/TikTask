@@ -1,0 +1,37 @@
+<Root>
+  <tag0>
+   <tag15>
+    <tag17></tag17>
+   </tag15>
+   <tag16>40</tag16>
+  </tag0>
+  <tag1>
+   <tag5>
+    <tag14></tag14>
+   </tag5>
+   <tag8>
+    <tag9>
+     <tag10>
+      <tag11>33.6</tag11>
+     </tag10>
+    </tag9>
+   </tag8>
+  </tag1>
+  <tag3>
+   <tag6>
+    <tag13></tag13>
+   </tag6>
+   <tag7></tag7>
+   <tag12></tag12>
+  </tag3>
+  <tag4>
+   <tag16>true</tag16>
+  </tag4>
+  <tag2>
+   <tag18>
+    <tag19></tag19>
+    <tag20></tag20>
+    <tag21>1000</tag21>
+   </tag18>
+  </tag2>
+</Root>
